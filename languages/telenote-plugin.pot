@@ -1,0 +1,190 @@
+# Copyright (C) 2021 https://telenote.site
+# This file is distributed under the same license as the Telenote plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Telenote 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/telenote-wordpress-woocommerce-plugin\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2021-01-15T14:20:39+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.4.0\n"
+"X-Domain: telenote_plugin\n"
+
+#. Plugin Name of the plugin
+msgid "Telenote"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author of the plugin
+#. Author URI of the plugin
+msgid "https://telenote.site"
+msgstr ""
+
+#. Description of the plugin
+msgid "Telenote Wordpress Woocommerce Plugin allows you to send notifications to site users via telegram"
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:42
+msgid "Yes, send notifications in my Telegram. "
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:43
+msgid "No, thanks."
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:51
+msgid "Do you want to receive notifications in Telegram?"
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:54
+msgid "If yes, please click on this link before place order "
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:56
+msgid " to subscribe to our Telegram bot."
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:65
+msgid "Error when using Telenote plugin."
+msgstr ""
+
+#: telenote-wordpress-woocommerce-plugin.php:92
+msgid "Please set Telenote API Token in the settings."
+msgstr ""
+
+#: telenote_woocommerce.php:65
+#: telenote_woocommerce.php:66
+msgid "Telenote plugin settings"
+msgstr ""
+
+#: telenote_woocommerce.php:87
+msgid "Telenote Plugin Settings updated."
+msgstr ""
+
+#: telenote_woocommerce.php:93
+msgid "Please set API token."
+msgstr ""
+
+#: telenote_woocommerce.php:106
+msgid "Telenote Account settings"
+msgstr ""
+
+#: telenote_woocommerce.php:107
+msgid "Telenote API Token"
+msgstr ""
+
+#: telenote_woocommerce.php:108
+msgid "Telenote Project Alias"
+msgstr ""
+
+#: telenote_woocommerce.php:109
+msgid "Your balance: "
+msgstr ""
+
+#: telenote_woocommerce.php:114
+msgid "Link your account"
+msgstr ""
+
+#: telenote_woocommerce.php:115
+msgid "Click on this link to receive admin notifications"
+msgstr ""
+
+#: telenote_woocommerce.php:121
+msgid "Message Templates"
+msgstr ""
+
+#: telenote_woocommerce.php:122
+msgid "Template for \"New Order\" message"
+msgstr ""
+
+#: telenote_woocommerce.php:123
+msgid "Placeholdres:"
+msgstr ""
+
+#: telenote_woocommerce.php:124
+msgid "Order Number"
+msgstr ""
+
+#: telenote_woocommerce.php:125
+msgid "Order Total Sum"
+msgstr ""
+
+#: telenote_woocommerce.php:126
+msgid "Client Email Address"
+msgstr ""
+
+#: telenote_woocommerce.php:127
+msgid "Client Phone Number"
+msgstr ""
+
+#: telenote_woocommerce.php:128
+msgid "Client First Name"
+msgstr ""
+
+#: telenote_woocommerce.php:129
+msgid "Client Last Name"
+msgstr ""
+
+#: telenote_woocommerce.php:130
+msgid "Client City"
+msgstr ""
+
+#: telenote_woocommerce.php:131
+msgid "Client Address"
+msgstr ""
+
+#: telenote_woocommerce.php:132
+msgid "Shop Name"
+msgstr ""
+
+#: telenote_woocommerce.php:133
+msgid "Prevous Order Status"
+msgstr ""
+
+#: telenote_woocommerce.php:134
+msgid "New Order Status"
+msgstr ""
+
+#: telenote_woocommerce.php:135
+msgid "Items List In \"Name Count Price\" format"
+msgstr ""
+
+#: telenote_woocommerce.php:136
+msgid "Payment Method"
+msgstr ""
+
+#: telenote_woocommerce.php:137
+msgid "Delivery Method"
+msgstr ""
+
+#: telenote_woocommerce.php:138
+msgid "Order Creation Status"
+msgstr ""
+
+#: telenote_woocommerce.php:139
+#: telenote_woocommerce.php:144
+msgid "Message To Admin"
+msgstr ""
+
+#: telenote_woocommerce.php:140
+#: telenote_woocommerce.php:145
+msgid "Send Message To Admin?"
+msgstr ""
+
+#: telenote_woocommerce.php:141
+#: telenote_woocommerce.php:146
+msgid "Message To Client"
+msgstr ""
+
+#: telenote_woocommerce.php:142
+#: telenote_woocommerce.php:147
+msgid "Send Message To Client?"
+msgstr ""
+
+#: telenote_woocommerce.php:143
+msgid "Template for \"Order Changed\" message"
+msgstr ""
