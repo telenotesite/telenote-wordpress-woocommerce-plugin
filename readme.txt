@@ -1,13 +1,13 @@
-=== Telenote Wordpress Plugin for WooCommerce ===
+=== Telenote ===
 Contributors: telenote
 Tags: telegram, notifications, woocommerce, telenote
 Requires at least: 5.3
 Tested up to: 5.6
-Requires PHP: 7.0
+Requires PHP: 5.6
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
-It's just a plugin that allows you to send telegram notifications to users of your site through the Telenote.site service.
+It's just a plugin that allows you to send telegram notifications to users of your site through the telenote.site service.
 
 == Description ==
 This plugin is for WooCommerce. At the moment, minimal functionality is offered, but it will expand over time. What our plugin does at the moment:
