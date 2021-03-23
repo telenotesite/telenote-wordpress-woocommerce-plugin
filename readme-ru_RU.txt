@@ -1,4 +1,5 @@
 === Telenote ===
+Stable Tag: 1.0.0
 Contributors: telenote
 Tags: telegram, notifications, woocommerce, telenote
 Requires at least: 5.3
